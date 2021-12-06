@@ -23,10 +23,16 @@ Excluding 9th graders at Thomas High School's reading and math scores:
 
 
 ### Changes to school summary
-By removing the faulty 9th grade reading and math scores, this caused the average scores for Thomas High School to increase-- which is reasonable considering the scores for the 9th graders were low. The total number of students passsing math from Thomas High School including the 9th graders was 1525, whereas excluding them the total count of 10th-12th graders passing math was 1094. Similarly, the total number of students passsing reading from Thomas High School including the 9th graders was 1591, whereas excluding them the total count of 10th-12th graders passing math was 1139. This change in turn had a consequence on the percentage of students passing math and reading. After excluding the 9th graders, 93.19% of 10th-12th graders in Thomas High School were passing math, and 97.02% were passing reading. Before exlciong the 9th graders, 
+By removing the faulty 9th grade reading and math scores, this caused the average scores for Thomas High School to increase-- which is reasonable considering the scores for the 9th graders were low. The total number of students passsing math from Thomas High School including the 9th graders was 1525, whereas excluding them the total count of 10th-12th graders passing math was 1094. Similarly, the total number of students passsing reading from Thomas High School including the 9th graders was 1591, whereas excluding them the total count of 10th-12th graders passing math was 1139. This change in turn had a consequence on the percentage of students passing math and reading. After excluding the 9th graders, 93.19% of 10th-12th graders in Thomas High School were passing math, and 97.02% were passing reading. Before excluding the 9th graders, 93.2% of the total students in Thomas High School were passing math, and 97.31% were passing reading.
 
 
+## Scores by school spending
+![image](https://user-images.githubusercontent.com/93107507/144780002-d5e88a98-c010-4a9a-9bfa-b0bbe6756eaf.png)
 
+## Scores by school size
+![image](https://user-images.githubusercontent.com/93107507/144780086-d26cb36a-176f-4a00-8d03-17cbd12ab08a.png)
 
-The following are the average math and reading scores for Thomas High School with and without the 9th graders part of the calculation:
+## Scores by school type
+![image](https://user-images.githubusercontent.com/93107507/144780059-e3b08351-9f4a-4611-9fe0-fde8b1ed5474.png)
+
 
