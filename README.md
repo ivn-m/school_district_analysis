@@ -8,7 +8,8 @@ The purpose of this analysis was to calculate school district math and reading s
 ### Changes to district summary
 Disclaimer: No data was deleted from the analysis. Values where academic dishonesty was suspected were altered to null values.
 
-The effect of changing the math and reading scores of the 9th graders at Thomas High School to null values changed the underlying base population count, and thus changed figures in our analysis. The total number of null values in our analysis changed from 0 to 461, which in turn reduced the total number of student scores in the analysis from 3,9170 to 38,709. This additionally reduced the number of scores for Thomas High School from 1635 to 1174. This in turn effected the average score calculation, 
+The effect of changing the math and reading scores of the 9th graders at Thomas High School to null values changed the underlying base population count, and thus changed figures in our analysis. The total number of null values in our analysis changed from 0 to 461, which in turn reduced the total number of student scores in the analysis from 3,9170 to 38,709. This additionally reduced the number of scores for Thomas High School from 1635 to 1174. This in turn effected the average score calculation:
+
     - Number of 10th graders at Thomas High School: 421
     - Number of 11th graders at Thomas High School: 415
     - Number of 12th graders at Thomas High School: 338
